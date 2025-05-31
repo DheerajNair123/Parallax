@@ -52,6 +52,7 @@ cd Parallax
 3. **Open the Website**
 
 Open the index.html file in your preferred web browser. For a smoother development experience, consider using a local server (e.g., Live Server in VS Code).
+Check out at :- (here)[https://parallaxslide.netlify.app/]
 
 ## Contributing
 Contributions are welcome! If you have suggestions, improvements, or bug fixes, please follow these steps:
